@@ -1,0 +1,49 @@
+System Specs for YFP 4.0
+updated 7-26-2012
+
+Beta Test/Staging Server
+
+Title						
+site address			:	www.vw-ws.com
+
+domain provider			:	godaddy
+
+Webhosting
+	provider			: 	www.greengeeks.com
+	shared hosting 		:	no	
+	control panel		:	
+	free domains		:	1
+	addon domains		: 	unlimited
+	park domains		:	unlimited
+	email accounts		: 	unlimited
+	storage capacity	: 	unlimited
+	bandwidth			:	unlimited
+
+	apps installer
+		fantastico		: 	no
+		scriptaculous	: 	no	
+			wordpress,
+			joomla,
+			drupal		:	yes
+	PHP					: 	yes
+		memory			: 	
+		extensions installed
+						:	?
+	SSL					:	Yes
+		Certificate		:	No
+
+Software Specs
+
+Backend	
+	Core App			:	Wordpress version 3
+		URL				:	http://www.vw-ws.com
+		Server Dir		:	/home/vwwscom/public_html/
+		Plugins Installed
+							aMember Pro 4.0 Plugin
+							
+	Membership			:	aMember Pro version 4
+		URL				:	http://www.vw-ws.com/account/
+		Server Dir		:	/home/vwwscom/public_html/account/
+	Autoresponder		:	Cakemail/aWeber (refer to passpack account and cakemail directory)
+	
+	

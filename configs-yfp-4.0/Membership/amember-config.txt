@@ -14,13 +14,14 @@
 * aMember PRO is a commercial software. Any distribution is strictly prohibited.
 */
 
+
 return array(
     'db' => array(
         'mysql' => array(
-            'db'    => 'amember01',
-            'user'  => 'amember01',
+            'db'    => 'vwwscom_amember',
+            'user'  => 'vwwscom_amember',
             'pass'  => 'gof4HGMht8',
-            'host'  => 'amember01.db.9235811.hostedresource.com',
+            'host'  => 'localhost',
             'prefix' => 'am_',
             'port'  => '',
         ),
